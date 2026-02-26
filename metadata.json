@@ -1,0 +1,5 @@
+{
+  "name": "Image to ICO Converter",
+  "description": "A simple web tool to convert images to ICO format directly in the browser.",
+  "requestFramePermissions": []
+}
